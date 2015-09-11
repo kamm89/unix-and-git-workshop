@@ -1,0 +1,4 @@
+can I add more jus tlike this?
+Nope, I need to Chevrons in order to append more to what I already added to the notes.
+*two cheverons*
+ I learned how to create a fork, branch, create a txt file, and I'm about to learn how to take the notes from one file and throw it into another!!!
